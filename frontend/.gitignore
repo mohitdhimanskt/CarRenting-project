@@ -1,0 +1,4 @@
+touch .gitignore
+/* .gitignore */
+node_modules
+.next
