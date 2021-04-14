@@ -11,13 +11,13 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "Name": {
+    "name": {
       "type": "string"
     },
-    "Description": {
+    "description": {
       "type": "text"
     },
-    "Image": {
+    "image": {
       "collection": "file",
       "via": "related",
       "allowedTypes": [
