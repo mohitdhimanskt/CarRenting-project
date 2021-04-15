@@ -70,6 +70,7 @@ function CheckoutForm() {
     //     card: cardElement,
     //   },
     // });
+  
   }
 
   return (
