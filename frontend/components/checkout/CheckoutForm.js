@@ -9,7 +9,6 @@ import { CardElement, useStripe, useElements } from "@stripe/react-stripe-js";
 import CardSection from "./CardSection";
 import AppContext from "../../context/AppContext";
 
-
 function CheckoutForm() {
   const [data, setData] = useState({
     address: "",
@@ -70,7 +69,6 @@ function CheckoutForm() {
     //     card: cardElement,
     //   },
     // });
-  
   }
 
   return (
